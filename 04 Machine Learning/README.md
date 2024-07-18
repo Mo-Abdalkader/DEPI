@@ -35,4 +35,19 @@ The Jupyter Notebook in this repository performs K-Means clustering on the Wine 
 4. **Label Assignment**: The resulting cluster labels are added to the DataFrame.
 5. **Visualization**: Various plots are created to visualize the clustering results.
 
-## How to Run the Notebook
+## Results
+
+After running the notebook, you will see the clustered data along with visualizations that help in understanding the distribution of clusters across different features. The clusters are labeled in the `Labels` column of the DataFrame.
+
+## Conclusion
+
+This project demonstrates how to perform clustering on a real-world dataset using the K-Means algorithm. The Wine dataset, with its various chemical properties, provides a good example for clustering analysis.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- The Wine dataset is sourced from the UCI Machine Learning Repository.
+- Thanks to the developers of pandas, NumPy, Matplotlib, Seaborn, and scikit-learn for their excellent libraries.
